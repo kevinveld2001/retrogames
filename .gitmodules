@@ -1,0 +1,6 @@
+[submodule "NDS/-f"]
+	path = NDS/-f
+	url = git@github.com:kevinveld2001/platformtest_nds.git
+[submodule "NDS/platformtest_nds"]
+	path = NDS/platformtest_nds
+	url = git@github.com:kevinveld2001/platformtest_nds.git
